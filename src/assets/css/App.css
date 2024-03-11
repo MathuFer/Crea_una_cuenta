@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: lightgreen;
+}
+
+.Container{
+    background-color: white;
+    margin: 15px;
+    padding: 50px;
+    border-radius: 35px;
+    width: 400px;
+}
+
+i{
+    font-size: 20px;
+    padding: 5px;
+}
